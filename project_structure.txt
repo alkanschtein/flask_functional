@@ -1,0 +1,20 @@
+app/
+  __init__.py
+  models/
+    __init__.py
+    base.py
+    users.py
+    ...
+  routes/
+    __init__.py
+    home.py
+    ...
+  templates/
+    _base.html
+    Home
+      index.html
+    ...
+  services/
+    __init__.py
+    mail.py
+    ...
